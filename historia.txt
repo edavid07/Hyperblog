@@ -2,4 +2,7 @@ Este es el primer archivo de texto.
 
 Proyecto Git
 
+Primeros cambios en el archivo.
+
+
 Curso Platzi
